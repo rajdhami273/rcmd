@@ -1,0 +1,1 @@
+To make life easier while using ReactJS
