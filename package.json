@@ -1,5 +1,5 @@
 {
-  "name": "react-cmd",
+  "name": "rcmd",
   "version": "1.0.0",
   "description": "Angular like component generator",
   "main": "index.js",
