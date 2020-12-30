@@ -18,5 +18,14 @@
   "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajdhami273/rcmd.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajdhami273/rcmd/issues"
+  },
+  "homepage": "https://github.com/rajdhami273/rcmd#readme"
 }
