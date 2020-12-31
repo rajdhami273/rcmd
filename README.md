@@ -1,6 +1,6 @@
 To make life easier while using ReactJS
 
-Used to generate pages and components alongwith scss file for ex
+Used to generate pages and components alongwith scss file for example
 
 Save globally: npm i -g reactjs-gen
 
