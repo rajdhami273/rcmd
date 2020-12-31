@@ -8,7 +8,11 @@ rcmd g|generate page <path/to/folder>/MyPage class|functional
 
 will result in
 
-path/to/folder/
-            MyPage:
-                MyPage.jsx
-                MyPage.module.scss
+
+├── path/to/folder                    
+│   ├── MyPage          
+│       ├── MyPage.jsx         
+│       └── MyPage.module.scss                
+└── ...
+                
+                
