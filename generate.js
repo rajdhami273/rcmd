@@ -3,8 +3,7 @@ const fs = require("fs");
 
 const content = {
   page: (type, fileName) => {
-    const classBased = `
-class ${fileName} extends Component {
+    const classBased = `class ${fileName} extends Component {
 
     constructor(props) {
         super(props);
@@ -25,9 +24,8 @@ const ${fileName} = (props) => {
     );
 }`;
     const main = (pageTypeTemplate) => {
-      return `
-import React from "react";
-import css from "./${fileName}.module.css";
+      return `import React from "react";
+import css from "./${fileName}.module.scss";
 
     ${pageTypeTemplate}
 
